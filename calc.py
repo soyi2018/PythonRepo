@@ -11,4 +11,4 @@ def divide(x,y):
     return x/y
 	
 def square(x):
-    pass
+    retrun x**2
